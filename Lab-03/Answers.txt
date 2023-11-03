@@ -1,0 +1,3 @@
+Task 1 : egrep '^[a-zA-Z0-9]{6,12}$' strings
+Task 2 : User35
+Task 3 : egrep ‘.+@.+\.com’ strings
